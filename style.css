@@ -81,4 +81,10 @@ body {
     color: #a855f7;
 }
 
+@media (max-width: 500px) {
+    .quote-container {
+        min-width: 250px;
+    }
+}
+
 
